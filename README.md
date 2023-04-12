@@ -7,7 +7,7 @@
 ### 2. After cloning this repo, run this command to copy the modules to your **openmrs** modules directory
 
 ```bash
-cd openmrs-basic-modules && cp ./*  .OpenMRS/modules/
+cd openmrs-basic-modules && cp ./*  ~/.OpenMRS/modules/
 ```
 
 ### 3. The legacy module for user interface is included. If you want to build it on your own checkout the repo [here](https://github.com/openmrs/openmrs-module-legacyui) 
